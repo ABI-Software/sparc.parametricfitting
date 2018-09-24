@@ -1,6 +1,7 @@
 import numpy as np
-from Optimization import Optimization
-from Tools import Tools
+
+from sparc.parametricfitting.optimization import Optimization
+from sparc.parametricfitting.tools import Tools
 
 
 class DeformableFitting(Optimization):

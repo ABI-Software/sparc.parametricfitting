@@ -2,8 +2,6 @@ import numpy as np
 
 
 class Tools(object):
-    def __init__(self):
-        pass
 
     @staticmethod
     def initialize_sigma2(X, Y):

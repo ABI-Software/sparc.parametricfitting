@@ -1,5 +1,6 @@
 import numpy as np
-from Tools import Tools
+
+from sparc.parametricfitting.tools import Tools
 
 
 class Optimization(object):
