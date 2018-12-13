@@ -1,6 +1,6 @@
 import numpy as np
 
-from sparc.parametricfitting.ptimization import Optimization
+from sparc.parametricfitting.optimization import Optimization
 
 
 class RigidFitting(Optimization):
